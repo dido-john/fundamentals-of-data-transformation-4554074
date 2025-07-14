@@ -3,5 +3,6 @@
         "!sql"
     ],
     "workbench.colorTheme": "Default Dark+",
-    "window.zoomLevel":1
+    "window.zoomLevel": 1,
+    "remote.autoForwardPortsFallback": 0
 }
